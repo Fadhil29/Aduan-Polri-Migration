@@ -1,0 +1,2541 @@
+{
+  "polda": [
+    "ACEH",
+    "BALI",
+    "BANTEN",
+    "BENGKULU",
+    "DI YOGYAKARTA",
+    "GORONTALO",
+    "JAMBI",
+    "JAWA BARAT",
+    "JAWA TENGAH",
+    "JAWA TIMUR",
+    "KALIMANTAN BARAT",
+    "KALIMANTAN SELATAN",
+    "KALIMANTAN TENGAH",
+    "KALIMANTAN TIMUR",
+    "KALIMANTAN UTARA",
+    "KEP BANGKA BELITUNG",
+    "KEP RIAU",
+    "LAMPUNG",
+    "MALUKU",
+    "MALUKU UTARA",
+    "METROJAYA",
+    "NUSA TENGGARA BARAT",
+    "NUSA TENGGARA TIMUR",
+    "PAPUA",
+    "PAPUA BARAT",
+    "PAPUA BARAT DAYA",
+    "PAPUA TENGAH",
+    "RIAU",
+    "SULAWESI BARAT",
+    "SULAWESI SELATAN",
+    "SULAWESI TENGAH",
+    "SULAWESI TENGGARA",
+    "SULAWESI UTARA",
+    "SUMATRA BARAT",
+    "SUMATRA SELATAN",
+    "SUMATRA UTARA"
+  ],
+  "polres": [
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES DEMAK",
+      "email": "resdemak@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES PURWOREJO",
+      "email": "respurworejo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRESTA CILACAP",
+      "email": "restacilacap@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES BANJARNEGARA",
+      "email": "resbanjarnegara@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES KEBUMEN",
+      "email": "reskebumen@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES JEPARA",
+      "email": "resjepara@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRESTA BANYUMAS",
+      "email": "restabanyumas@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES WONOGIRI",
+      "email": "reswonogiri@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES PURBALINGGA",
+      "email": "respurbalingga@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES SUKOHARJO",
+      "email": "ressukoharjo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES MAGELANG KOTA",
+      "email": "resmagelangkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES SALATIGA",
+      "email": "ressalatiga@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES BOYOLALI",
+      "email": "resboyolali@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES KUDUS",
+      "email": "reskudus@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES PEKALONGAN",
+      "email": "respekalongan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES TEGAL KOTA",
+      "email": "restegalkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES BLORA",
+      "email": "resblora@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRESTA MAGELANG",
+      "email": "resmagelang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES TEMANGGUNG",
+      "email": "restemanggung@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES REMBANG",
+      "email": "resrembang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRESTA PATI",
+      "email": "restapati@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES KLATEN",
+      "email": "resklaten@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES KARANGANYAR",
+      "email": "reskaranganyar@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRESTABES SEMARANG",
+      "email": "restabessemarang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRESTA SURAKARTA",
+      "email": "restasurakarta@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES KENDAL",
+      "email": "reskendal@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES WONOSOBO",
+      "email": "reswonosobo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES TEGAL",
+      "email": "restegal@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES SEMARANG",
+      "email": "ressemarang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES BATANG",
+      "email": "resbatang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES GROBOGAN",
+      "email": "resgrobogan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES BREBES",
+      "email": "resbrebes@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES PEKALONGAN KOTA",
+      "email": "respekalongankota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TENGAH",
+      "polres": "POLRES PEMALANG",
+      "email": "respemalang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES SUBANG",
+      "email": "ressubang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES PURWAKARTA",
+      "email": "respurwakarta@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES SUKABUMI KOTA",
+      "email": "ressukabumikota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES CIREBON KOTA",
+      "email": "rescirebonkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES CIMAHI",
+      "email": "rescimahi@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES CIANJUR",
+      "email": "rescianjur@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES MAJALENGKA",
+      "email": "resmajalengka@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES KUNINGAN",
+      "email": "reskuningan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES SUKABUMI",
+      "email": "ressukabumi@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES INDRAMAYU",
+      "email": "resindramayu@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES BANDUNG",
+      "email": "resbandung@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRESTA CIREBON",
+      "email": "restacirebon@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES TASIKMALAYA",
+      "email": "restasikmalaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES BANJAR",
+      "email": "resbanjar@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES KARAWANG",
+      "email": "reskarawang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRESTA BOGOR KOTA",
+      "email": "restabogorkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRESTABES BANDUNG",
+      "email": "restabesbandung@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES BOGOR",
+      "email": "resbogor@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES SUMEDANG",
+      "email": "ressumedang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES CIAMIS",
+      "email": "resciamis@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES PANGANDARAN",
+      "email": "respangandaran@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES TASIKMALAYA KOTA",
+      "email": "restasikmalayakota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA BARAT",
+      "polres": "POLRES GARUT",
+      "email": "resgarut@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES KEDIRI KOTA",
+      "email": "reskedirikota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES MADIUN KOTA",
+      "email": "resmadiunkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BANGKALAN",
+      "email": "resbangkalan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES MALANG",
+      "email": "resmalang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BATU",
+      "email": "resbatu@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES MOJOKERTO",
+      "email": "resmojokerto@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES NGANJUK",
+      "email": "resnganjuk@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES LAMONGAN",
+      "email": "reslamongan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES SAMPANG",
+      "email": "ressampang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PAMEKASAN",
+      "email": "respamekasan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES TUBAN",
+      "email": "restuban@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BLITAR KOTA",
+      "email": "resblitarkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES SITUBONDO",
+      "email": "ressitubondo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PONOROGO",
+      "email": "responorogo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES MADIUN",
+      "email": "resmadiun@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES NGAWI",
+      "email": "resngawi@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PELABUHAN TANJUNG PERAK",
+      "email": "restanjungperak@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES TULUNGAGUNG",
+      "email": "restulungagung@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PROBOLINGGO",
+      "email": "resprobolinggo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PASURUAN",
+      "email": "respasuruan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PROBOLINGGO KOTA",
+      "email": "resprobkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES TRENGGALEK",
+      "email": "restrenggalek@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES JEMBER",
+      "email": "resjember@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES GRESIK",
+      "email": "resgresik@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES MOJOKERTO KOTA",
+      "email": "resmojokertokota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES LUMAJANG",
+      "email": "reslumajang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES SUMENEP",
+      "email": "ressumenep@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES JOMBANG",
+      "email": "resjombang@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PACITAN",
+      "email": "respacitan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRESTA SIDOARJO",
+      "email": "ressidoarjo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES PASURUAN KOTA",
+      "email": "respaskota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRESTA MALANG KOTA",
+      "email": "restamalangkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BANYUWANGI",
+      "email": "resbanyuwangi@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES MAGETAN",
+      "email": "resmagetan@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BLITAR",
+      "email": "resblitar@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES KEDIRI",
+      "email": "reskediri@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BONDOWOSO",
+      "email": "resbondowoso@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAWA TIMUR",
+      "polres": "POLRES BOJONEGORO",
+      "email": "resbojonegoro@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES GAYO LUES",
+      "email": "resgayolues@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES SIMEULUE",
+      "email": "ressimeulue@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRESTA BANDA ACEH",
+      "email": "restabandaaceh@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRESTA ACEH BESAR",
+      "email": "restaacehbesar@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES PIDIE",
+      "email": "respidie@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES LHOKSEUMAWE",
+      "email": "reslhokseumawe@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES LANGSA",
+      "email": "reslangsa@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH BARAT",
+      "email": "resacehbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH SELATAN",
+      "email": "resacehselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH TENGAH",
+      "email": "resacehtengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH TENGGARA",
+      "email": "resacehtenggara@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES SABANG",
+      "email": "ressabang@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES BIREUEN",
+      "email": "resbireuen@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH SINGKIL",
+      "email": "resacehsingkil@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH TAMIANG",
+      "email": "resacehtamiang@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH UTARA",
+      "email": "resacehutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH TIMUR",
+      "email": "resacehtimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES NAGAN RAYA",
+      "email": "resnaganraya@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH BARAT DAYA",
+      "email": "resbaratdaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES BENER MERIAH",
+      "email": "resbenermeriah@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES ACEH JAYA",
+      "email": "resacehjaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES SUBUSSALAM",
+      "email": "ressubussalam@cyber.polri.go.id"
+    },
+    {
+      "polda": "ACEH",
+      "polres": "POLRES PIDIE JAYA",
+      "email": "respidiejaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES JEMBRANA",
+      "email": "resjembrana@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES BADUNG",
+      "email": "resbadung@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES BULELENG",
+      "email": "resbuleleng@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES GIANYAR",
+      "email": "resgianyar@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES KARANGASEM",
+      "email": "reskarangasem@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES TABANAN",
+      "email": "restabanan@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRESTA DENPASAR",
+      "email": "resdenpasar@cyber.polri.go.id"
+    },
+    {
+      "polda": "BALI",
+      "polres": "POLRES KAWASAN BANDARA I GUSTI",
+      "email": "resbandaraigustingurahrai@cyber.polri.go.id"
+    },
+    {
+      "polda": "BANTEN",
+      "polres": "POLRES SERANG KOTA",
+      "email": "resserangkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "BANTEN",
+      "polres": "POLRES TANGERANG",
+      "email": "restangerang@cyber.polri.go.id"
+    },
+    {
+      "polda": "BANTEN",
+      "polres": "POLRES CILEGON",
+      "email": "rescilegon@cyber.polri.go.id"
+    },
+    {
+      "polda": "BANTEN",
+      "polres": "POLRES LEBAK",
+      "email": "reslebak@cyber.polri.go.id"
+    },
+    {
+      "polda": "BANTEN",
+      "polres": "POLRES PANDEGLANG",
+      "email": "respandeglang@cyber.polri.go.id"
+    },
+    {
+      "polda": "BANTEN",
+      "polres": "POLRES SERANG",
+      "email": "resserang@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES SELUMA",
+      "email": "resseluma@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES BENGKULU",
+      "email": "resbengkulu@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES BENGKULU TENGAH",
+      "email": "resbengkulutengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES BENGKULU SELATAN",
+      "email": "resbengkuluselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES BENGKULU UTARA",
+      "email": "resbengkuluutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES KEPAHIANG",
+      "email": "reskepahiang@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES MUKO - MUKO",
+      "email": "resmukomuko@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES KAUR",
+      "email": "reskaur@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES REJANG LEBONG",
+      "email": "resrejanglebong@cyber.polri.go.id"
+    },
+    {
+      "polda": "BENGKULU",
+      "polres": "POLRES LEBONG",
+      "email": "reslebong@cyber.polri.go.id"
+    },
+    {
+      "polda": "DI YOGYAKARTA",
+      "polres": "POLRESTA YOGYAKARTA",
+      "email": "restayogyakarta@cyber.polri.go.id"
+    },
+    {
+      "polda": "DI YOGYAKARTA",
+      "polres": "POLRES BANTUL",
+      "email": "resbantul@cyber.polri.go.id"
+    },
+    {
+      "polda": "DI YOGYAKARTA",
+      "polres": "POLRES KULON PROGO",
+      "email": "reskulonprogo@cyber.polri.go.id"
+    },
+    {
+      "polda": "DI YOGYAKARTA",
+      "polres": "POLRES GUNUNG KIDUL",
+      "email": "resgunungkidul@cyber.polri.go.id"
+    },
+    {
+      "polda": "DI YOGYAKARTA",
+      "polres": "POLRES SLEMAN",
+      "email": "ressleman@cyber.polri.go.id"
+    },
+    {
+      "polda": "GORONTALO",
+      "polres": "POLRESTA GORONTALO KOTA",
+      "email": "resgorontalokota@cyber.polri.go.id"
+    },
+    {
+      "polda": "GORONTALO",
+      "polres": "POLRES GORONTALO",
+      "email": "resgorontalo@cyber.polri.go.id"
+    },
+    {
+      "polda": "GORONTALO",
+      "polres": "POLRES BOALEMO",
+      "email": "resboalemo@cyber.polri.go.id"
+    },
+    {
+      "polda": "GORONTALO",
+      "polres": "POLRES POHUWATO",
+      "email": "respohuwato@cyber.polri.go.id"
+    },
+    {
+      "polda": "GORONTALO",
+      "polres": "POLRES BONE BOLANGO",
+      "email": "resbonebolango@cyber.polri.go.id"
+    },
+    {
+      "polda": "GORONTALO",
+      "polres": "POLRES GORONTALO UTARA",
+      "email": "resgorontaloutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAMBI",
+      "polres": "POLRES KERINCI",
+      "email": "reskerinci@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAMBI",
+      "polres": "POLRES TEBO",
+      "email": "restebo@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAMBI",
+      "polres": "POLRESTA JAMBI",
+      "email": "restajambi@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAMBI",
+      "polres": "POLRES SAROLANGUN",
+      "email": "ressarolangun@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAMBI",
+      "polres": "POLRES TANJUNG JABUNG BARAT",
+      "email": "restjjabungbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "JAMBI",
+      "polres": "POLRES BUNGO",
+      "email": "resbungo@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRESTA PONTIANAK KOTA",
+      "email": "respontianakkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES MEMPAWAH",
+      "email": "resmempawah@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES SAMBAS",
+      "email": "ressambas@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES SANGGAU",
+      "email": "ressanggau@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES SINTANG",
+      "email": "ressintang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES KAPUAS HULU",
+      "email": "reskapuashulu@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES KETAPANG",
+      "email": "resketapang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES LANDAK",
+      "email": "reslandak@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES BENGKAYANG",
+      "email": "resbengkayang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES SINGKAWANG",
+      "email": "ressingkawang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES SEKADAU",
+      "email": "ressekadau@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES MELAWI",
+      "email": "resmelawi@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES KAYONG UTARA",
+      "email": "reskayongutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN BARAT",
+      "polres": "POLRES KUBU RAYA",
+      "email": "reskuburaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRESTA BANJARMASIN",
+      "email": "restabanjarmasin@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES BANJARBARU",
+      "email": "resbanjarbaru@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES BANJAR",
+      "email": "resbjr@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES HULU SUNGAI SELATAN",
+      "email": "ressungaihuluselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES HULU SUNGAI UTARA",
+      "email": "ressungaihuluutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES HULU SUNGAI TENGAH",
+      "email": "ressungaihulutengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES TANAH LAUT",
+      "email": "restanahlaut@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES TABALONG",
+      "email": "restabalong@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES TAPIN",
+      "email": "restapin@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES KOTA BARU",
+      "email": "reskotabaru@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES BARITO KUALA",
+      "email": "resbaritokuala@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES TANAH BAMBU",
+      "email": "restanahbambu@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN SELATAN",
+      "polres": "POLRES BALANGAN",
+      "email": "resbalangan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRESTA PALANGKARAYA",
+      "email": "restapalangkaraya@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES KAPUAS",
+      "email": "reskapuas@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES BARITO SELATAN",
+      "email": "resbaritoselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES BARITO UTARA",
+      "email": "resbaritoutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES KOTIM",
+      "email": "reskotim@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES KOBAR",
+      "email": "reskobar@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES BARITO TIMUR",
+      "email": "resbaritotimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES MURUNG RAYA",
+      "email": "resmurungraya@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES KATINGAN",
+      "email": "reskatingan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES SERUYAN",
+      "email": "resseruyan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES GUNUNG MAS",
+      "email": "resgunungmas@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES SUKAMARA",
+      "email": "ressukamara@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES LAMANDAU",
+      "email": "reslamandau@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TENGAH",
+      "polres": "POLRES PULANG PISAU",
+      "email": "respulangpisau@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRESTA BALIKPAPAN",
+      "email": "restabalikpapan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRESTA SAMARINDA",
+      "email": "restasamarinda@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRESTA IKN",
+      "email": "restaikn@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES BERAU",
+      "email": "resberau@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES KUTAI KARTANEGARA",
+      "email": "reskutaikartanegara@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES PASER",
+      "email": "respaser@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES BONTANG",
+      "email": "resbontang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES KUTAI TIMUR",
+      "email": "reskutaitimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES KUTAI BARAT",
+      "email": "reskutaibarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN TIMUR",
+      "polres": "POLRES PENAJAM PASER UTARA",
+      "email": "respenajampaserutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN UTARA",
+      "polres": "POLRES BULUNGAN",
+      "email": "resbulungan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN UTARA",
+      "polres": "POLRES TARAKAN",
+      "email": "restarakan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN UTARA",
+      "polres": "POLRES MALINAU",
+      "email": "resmalinau@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN UTARA",
+      "polres": "POLRES NUNUKAN",
+      "email": "resnunukan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KALIMANTAN UTARA",
+      "polres": "POLRES TANA TIDUNG",
+      "email": "restanatidung@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRESTA PANGKAL PINANG",
+      "email": "restapangkalpinang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRES BANGKA",
+      "email": "resbangka@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRES BELITUNG",
+      "email": "resbelitung@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRES BELITUNG TIMUR",
+      "email": "resbelitungtimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRES BANGKA SELATAN",
+      "email": "resbangkaselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRES BANGKA TENGAH",
+      "email": "resbangkatengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP BANGKA BELITUNG",
+      "polres": "POLRES BANGKA BARAT",
+      "email": "resbangkabarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRESTA BARELANG",
+      "email": "restabarelang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRESTA TANJUNG PINANG",
+      "email": "restatanjungpinang@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRES KARIMUN",
+      "email": "reskarimun@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRES NATUNA",
+      "email": "resnatuna@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRES LINGGA",
+      "email": "reslingga@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRES BINTAN",
+      "email": "resbintan@cyber.polri.go.id"
+    },
+    {
+      "polda": "KEP RIAU",
+      "polres": "POLRES KEPULAUAN ANAMBAS",
+      "email": "reskepanambass@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRESTA PEKAN BARU",
+      "email": "restapekanbaru@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES INDRAGIRI HULU",
+      "email": "resindragirihulu@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES DUMAI",
+      "email": "resdumai@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES INDRAGIRI HILIR",
+      "email": "resindragirihilir@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES BENGKALIS",
+      "email": "resbengkalis@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES PELALAWAN",
+      "email": "respelalawan@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES ROKAN HILIR",
+      "email": "resrokanhilir@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES ROKAN HULU",
+      "email": "resrokanhulu@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES SIAK",
+      "email": "ressiak@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES KUANTAN SINGINGI",
+      "email": "reskuantansingingi@cyber.polri.go.id"
+    },
+    {
+      "polda": "RIAU",
+      "polres": "POLRES KAMPAR",
+      "email": "reskampar@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRESTA BANDAR LAMPUNG",
+      "email": "resbandarlampung@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES LAMPUNG SELATAN",
+      "email": "reslampungselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES LAMPUNG TIMUR",
+      "email": "reslampungtimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES LAMPUNG UTARA",
+      "email": "reslampungutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES LAMPUNG BARAT",
+      "email": "reslampungbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES LAMPUNG TENGAH",
+      "email": "reslampungtengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES TANGGAMUS",
+      "email": "retanggamus@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES PESAWARAN",
+      "email": "respesawaran@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES WAY KANAN",
+      "email": "reswaykanan@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES TULANG BAWANG",
+      "email": "restulangbawang@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES METRO",
+      "email": "resmetro@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES MESUJI",
+      "email": "resmesuji@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES PRINGSEWU",
+      "email": "respringsewu@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES TULANG BAWANG BARAT",
+      "email": "resbawangbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "LAMPUNG",
+      "polres": "POLRES PESISIR BARAT",
+      "email": "respesisirbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES BURU SELATAN",
+      "email": "resburuselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES KEPULAUAN ARU",
+      "email": "reskepulauanaru@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES KEPULAUAN TANIMBAR",
+      "email": "reskepulauantanimbar@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES SERAM BAGIAN TIMUR",
+      "email": "resbagiantimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES MALUKU TENGAH",
+      "email": "resmalukutengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES TUAL",
+      "email": "restual@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES SERAM BAGIAN BARAT",
+      "email": "resserambagbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES MALUKU BARAT DAYA",
+      "email": "resmalukubaratdaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES PULAU BURU",
+      "email": "respulauburu@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRES MALUKU TENGGARA",
+      "email": "resmalukutenggara@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU",
+      "polres": "POLRESTA AMBON",
+      "email": "restaambon@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES TERNATE",
+      "email": "resternate@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRESTA TIDORE",
+      "email": "restatidore@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES HALMAHERA UTARA",
+      "email": "reshalmaherautara@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES HALMAHERA SELATAN",
+      "email": "reshalmaheraselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES HALMAHERA BARAT",
+      "email": "reshalmaherabarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES KEPULAUAN SULA",
+      "email": "reskepsula@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES HALMAHERA TENGAH",
+      "email": "reshalmaheratengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES HALMAHERA TIMUR",
+      "email": "reshalmaheratimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "MALUKU UTARA",
+      "polres": "POLRES PULAU MOROTAI",
+      "email": "respulaumorotai@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO JAKARTA PUSAT",
+      "email": "resmetrojakpus@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO JAKARTA UTARA",
+      "email": "resmetrojakut@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO JAKARTA BARAT",
+      "email": "resmetrojakbar@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO JAKARTA TIMUR",
+      "email": "resmetrojatim@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO JAKARTA SELATAN",
+      "email": "resmetrojaksel@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO TANGERANG KOTA",
+      "email": "resmetrotangkot@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRESTA BANDARA SUKARNO HATTA",
+      "email": "restabdrsukarnohatta@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO BEKASI KOTA",
+      "email": "resmetrobekasikota@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METRO BEKASI",
+      "email": "resmetrobekasi@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES METROPOLITAN DEPOK",
+      "email": "resmetropolitandepok@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES PELABUHAN TANJUNG PRIOK",
+      "email": "respeltanjungpriok@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES KEPULAUN SERIBU",
+      "email": "reskepseribu@cyber.polri.go.id"
+    },
+    {
+      "polda": "METROJAYA",
+      "polres": "POLRES TANGERANG SELATAN",
+      "email": "restangsel@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRESTA MATARAM",
+      "email": "restamataram@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES LOMBOK TENGAH",
+      "email": "reslomboktengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES LOMBOK TIMUR",
+      "email": "reslomboktimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES SUMBAWA",
+      "email": "ressumbawa@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES DOMPU",
+      "email": "resdompu@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES BIMA KOTA",
+      "email": "resbimakota@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES LOMBOK BARAT",
+      "email": "reslombokbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES BIMA",
+      "email": "resbima@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES SUMBAWA BARAT",
+      "email": "ressumbawabarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA BARAT",
+      "polres": "POLRES LOMBOK UTARA",
+      "email": "reslombokutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES KUPANG KOTA",
+      "email": "reskupangkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES KUPANG",
+      "email": "reskupang@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES TIMOR TENGAH SELATAN",
+      "email": "restimtengsel@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES TIMOR TENGAH UTARA",
+      "email": "restimtengut@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES BELU",
+      "email": "resbelu@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES SUMBA TIMUR",
+      "email": "ressumbatimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES SUMBA BARAT",
+      "email": "ressumbabarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES SUMBA TENGAH",
+      "email": "ressumbatgh@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES ENDE",
+      "email": "resende@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES SIKKA",
+      "email": "ressikka@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES FLORES TIMUR",
+      "email": "resflorestimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES NGADA",
+      "email": "resngada@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES MANGGARAI",
+      "email": "resmanggarai@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES ALOR",
+      "email": "resalor@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES LEMBATA",
+      "email": "reslembata@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES MANGGARAI BARAT",
+      "email": "resmanggaraibarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES ROTE NDAO",
+      "email": "resrotendao@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES MALAKA",
+      "email": "resmalaka@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES MANGGARAI TIMUR",
+      "email": "resmanggaraitimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES NAGEKEO",
+      "email": "resnagekeo@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES SABU RAIJUA",
+      "email": "ressaburaijua@cyber.polri.go.id"
+    },
+    {
+      "polda": "NUSA TENGGARA TIMUR",
+      "polres": "POLRES SUMBA BARAT DAYA",
+      "email": "ressumbabaratdaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRESTA JAYAPURA KOTA",
+      "email": "resjayapurakota@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES JAYA PURA",
+      "email": "resjayapura@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES JAYAWIJAYA",
+      "email": "resjayawijaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES BIAK NUMFOR",
+      "email": "resbiaknumfor@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES MERAUKE",
+      "email": "resmerauke@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES KEPULAUAN YAPEN",
+      "email": "reskepyapen@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES MIMIKA",
+      "email": "resmimika@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES SARMI",
+      "email": "ressarmi@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES BOVEN DIGOEL",
+      "email": "resbovendigoel@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES KEEROM",
+      "email": "reskeerom@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES WAROPEN",
+      "email": "reswaropen@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES YAHUKIMO",
+      "email": "resyahukimo@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES ASMAT",
+      "email": "resasmat@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES MAPPI",
+      "email": "resmappi@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES PEGUNUNGAN BINTANG",
+      "email": "respegbintang@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES TOLIKARA",
+      "email": "restolikara@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES SUPIORI",
+      "email": "ressupiori@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES LANNY JAYA",
+      "email": "reslannyjaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES MAMBERAMO JAYA",
+      "email": "resmamberamojaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES MAMBERAMO TENGAH",
+      "email": "resmamberamotengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES NDUGA",
+      "email": "resnduga@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA",
+      "polres": "POLRES YALIMO",
+      "email": "resyalimo@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRESTA MANOKWARI",
+      "email": "restamanokwari@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRES FAKFAK",
+      "email": "resfakfak@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRES KAIMANA",
+      "email": "reskaimana@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRES TELUK BINTUNI",
+      "email": "restelukbintuni@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRES TELUK WONDAMA",
+      "email": "restelukwondama@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRES MANOKWARI SELATAN",
+      "email": "resmanokwariselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT",
+      "polres": "POLRES PEGUNUNGAN ARFAK",
+      "email": "respegununganarfak@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES NABIRE",
+      "email": "resnabire@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES DEIYAI",
+      "email": "resdeiyai@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES INTAN JAYA",
+      "email": "resintanjaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES PUNCAK JAYA",
+      "email": "respuncakjaya@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES PANIAI",
+      "email": "respaniai@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES DOGIYAI",
+      "email": "resdogiyai@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA TENGAH",
+      "polres": "POLRES PUNCAK",
+      "email": "respuncak@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT DAYA",
+      "polres": "POLRESTA SORONG KOTA",
+      "email": "restasorongkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT DAYA",
+      "polres": "POLRES SORONG",
+      "email": "ressorong@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT DAYA",
+      "polres": "POLRES SORONG SELATAN",
+      "email": "ressorongselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT DAYA",
+      "polres": "POLRES RAJA AMPAT",
+      "email": "resrajaampat@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT DAYA",
+      "polres": "POLRES MAYBARAT",
+      "email": "resmaybarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "PAPUA BARAT DAYA",
+      "polres": "POLRES TAMBRAUW",
+      "email": "restambrauw@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI BARAT",
+      "polres": "POLRESTA MAMUJU",
+      "email": "restamamuju@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI BARAT",
+      "polres": "POLRES MAJENE",
+      "email": "resmajene@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI BARAT",
+      "polres": "POLRES POLEWALI MANDAR",
+      "email": "respolewalimandar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI BARAT",
+      "polres": "POLRES MAMASA",
+      "email": "resmamasa@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI BARAT",
+      "polres": "POLRES MAMUJU UTARA",
+      "email": "resmamujuutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI BARAT",
+      "polres": "POLRES MAMUJU TENGAH",
+      "email": "resmamujutengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRESTA PALU",
+      "email": "restapalu@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES BANGGAI",
+      "email": "resbanggai@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES BANGGAI KEPULAUAN",
+      "email": "resbanggaikep@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES BUOL",
+      "email": "resbuol@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES DONGGALA",
+      "email": "resdonggala@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES MOROWALI",
+      "email": "resmorowali@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES MOROWALI UTARA",
+      "email": "resmorowaliutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES PARIGI MOUTONG",
+      "email": "resparigimoutong@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES POSO",
+      "email": "resposo@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES SIGI",
+      "email": "ressigi@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES TOJO UNA - UNA",
+      "email": "restojounauna@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES TOLITOLI",
+      "email": "restolitoli@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGAH",
+      "polres": "POLRES BANGGAI LAUT",
+      "email": "resbanggailaut@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRESTA KENDARI",
+      "email": "restakendari@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KONAWE",
+      "email": "reskonawe@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KONAWE SELATAN",
+      "email": "reskonaweselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KONAWE UTARA",
+      "email": "reskonaweutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KONAWE KEPULAUAN",
+      "email": "reskonawekepulauan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KOLAKA",
+      "email": "reskolaka@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KOLAKA UTARA",
+      "email": "reskolakautara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES KOLAKA TIMUR",
+      "email": "reskolakatmr@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES BOMBANA",
+      "email": "resbombana@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES BAUBAU",
+      "email": "resbaubau@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES BUTON",
+      "email": "resbuton@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES MUNA",
+      "email": "resmuna@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES WAKATOBI",
+      "email": "reswakatobi@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES BUTON UTARA",
+      "email": "resbutonutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI TENGGARA",
+      "polres": "POLRES BUTON TENGAH",
+      "email": "resbutontgh@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRESTA MANADO",
+      "email": "restamanado@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES BITUNG",
+      "email": "resbitung@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES TOMOHON",
+      "email": "restomohon@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES KOTAMOBAGU",
+      "email": "reskotamogu@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES MINAHASA",
+      "email": "resminahasa@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES MINAHASA UTARA",
+      "email": "resminahasautara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES MINAHASA SELATAN",
+      "email": "resminahasaselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES BOLAANG MONGONDOW",
+      "email": "resbolaangmongondow@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES BOLAANG MONGONDOW UTARA",
+      "email": "resbolaangmongondowutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES BOLAANG MONGONDOW TIMUR",
+      "email": "resbolmongtimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES BOLAANG MONGONDOW SELATAN",
+      "email": "resbolmongselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES KEPULAUAN SANGIHE",
+      "email": "reskepsangihe@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES KEPULAUAN SITARO",
+      "email": "reskepsitaro@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI UTARA",
+      "polres": "POLRES KEPULAUAN TALAUD",
+      "email": "reskeptalaud@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRESTABES MAKASSAR",
+      "email": "restabesmakassar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES BANTAENG",
+      "email": "resbantaeng@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES BARRU",
+      "email": "resbarru@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES BONE",
+      "email": "resbone@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES BULUKUMBA",
+      "email": "resbulukumba@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES ENREKANG",
+      "email": "resenrekang@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES GOWA",
+      "email": "resgowa@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES JENEPONTO",
+      "email": "resjeneponto@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES LUWU",
+      "email": "resluwu@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES LUWU TIMUR",
+      "email": "resluwutimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES LUWU UTARA",
+      "email": "resluwuutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES MAROS",
+      "email": "resmaros@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES PALOPO",
+      "email": "respalopo@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES PANGKEP",
+      "email": "respangkep@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES PAREPARE",
+      "email": "resparepare@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES PELABUHAN MAKASSAR",
+      "email": "respelmakassar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES PINRANG",
+      "email": "respinrang@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES KEPULAUAN SELAYAR",
+      "email": "reskepselayar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES SIDRAP",
+      "email": "ressidrap@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES SINJAI",
+      "email": "ressinjai@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES SOPPENG",
+      "email": "ressoppeng@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES TAKALAR",
+      "email": "restakalar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES TANA TORAJA",
+      "email": "restanatoraja@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES TORAJA UTARA",
+      "email": "restorajautara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SULAWESI SELATAN",
+      "polres": "POLRES WAJO",
+      "email": "reswajo@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRESTA PADANG",
+      "email": "restapadang@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRESTA BUKITTINGGI",
+      "email": "restabukittinggi@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES AGAM",
+      "email": "resagam@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES DHARMASRAYA",
+      "email": "resdharmasraya@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES KEPULAUAN MENTAWAI",
+      "email": "reskepmentawai@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES LIMA PULUH KOTA",
+      "email": "reslimapuluhkota@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES PADANG PARIAMAN",
+      "email": "respadangpariaman@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES PARIAMAN",
+      "email": "respariaman@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES PASAMAN",
+      "email": "respasaman@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES PASAMAN BARAT",
+      "email": "respasamanbarat@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES PAYAKUMBUH",
+      "email": "respayakumbuh@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES PESISIR SELATAN",
+      "email": "respesisirselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES SAWAH LUNTO",
+      "email": "ressawahlunto@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES SIJUNJUNG",
+      "email": "ressijunjung@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES SOLOK",
+      "email": "ressolok@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES SOLOK UTARA",
+      "email": "ressolokutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES SOLOK SELATAN",
+      "email": "ressolokselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA BARAT",
+      "polres": "POLRES TANAH DATAR",
+      "email": "restanahdatar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRESTA PALEMBANG",
+      "email": "restapalembang@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES BANYUASIN",
+      "email": "resbanyuasin@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES LAHAT",
+      "email": "reslahat@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES LUBUKLINGGAU",
+      "email": "reslubuklinggau@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES OKU",
+      "email": "resoku@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES OKI",
+      "email": "resoki@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES OKU TIMUR",
+      "email": "resokutimur@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES MUARAENIM",
+      "email": "resmuaraenim@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES EMPAT LAWANG",
+      "email": "resempatlawang@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES OGAN ILIR",
+      "email": "resoganilir@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES PRABUMULIH",
+      "email": "resprabumulih@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES PAGAR ALAM",
+      "email": "respagaralam@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES MUSI RAWAS",
+      "email": "resmusirawas@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA SELATAN",
+      "polres": "POLRES OKU SELATAN",
+      "email": "resokuselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES HUMBANG HASUNDUTAN",
+      "email": "reshumbahas@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES NIAS SELATAN",
+      "email": "resniasselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TANJUNG BALAI",
+      "email": "restanjungbalai@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES LABUHAN BATU",
+      "email": "reslabuhanbatu@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES SIBOLGA",
+      "email": "ressibolga@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES BATUBARA",
+      "email": "resbatubara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES SERDANG BEDAGAI",
+      "email": "resserdangbedagai@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TAPANULI TENGAH",
+      "email": "restapanulitengah@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES PELABUHAN BELAWAN",
+      "email": "respelbelawan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES LABUHAN BATU SELATAN",
+      "email": "reslabbatuselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES NIAS",
+      "email": "resnias@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES PADANG SIDEMPUAN",
+      "email": "respadangsidempuan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES PAKPAK BHARAT",
+      "email": "respakpakbharat@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TEBING TINGGI",
+      "email": "restebingtinggi@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TANAH KARO",
+      "email": "restanahkaro@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES LANGKAT",
+      "email": "reslangkat@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TAPANULI UTARA",
+      "email": "restapanuliutara@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES BINJAI",
+      "email": "resbinjai@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES PEMATANG SIANTAR",
+      "email": "respematangsiantar@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TAPANULI SELATAN",
+      "email": "restapanuliselatan@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES SIMALUNGUN",
+      "email": "ressimalungun@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES TOBA",
+      "email": "restoba@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES SAMOSIR",
+      "email": "ressamosir@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES MANDAILING NATAL",
+      "email": "resmandailingnatal@cyber.polri.go.id"
+    },
+    {
+      "polda": "SUMATRA UTARA",
+      "polres": "POLRES PADANG LAWAS",
+      "email": "respadanglawas@cyber.polri.go.id"
+    }
+  ],
+  "summary": {
+    "JAWA TENGAH": 34,
+    "JAWA BARAT": 23,
+    "JAWA TIMUR": 38,
+    "ACEH": 23,
+    "BALI": 8,
+    "BANTEN": 6,
+    "BENGKULU": 10,
+    "DI YOGYAKARTA": 5,
+    "GORONTALO": 6,
+    "JAMBI": 6,
+    "KALIMANTAN BARAT": 14,
+    "KALIMANTAN SELATAN": 13,
+    "KALIMANTAN TENGAH": 14,
+    "KALIMANTAN TIMUR": 10,
+    "KALIMANTAN UTARA": 5,
+    "KEP BANGKA BELITUNG": 7,
+    "KEP RIAU": 7,
+    "RIAU": 11,
+    "LAMPUNG": 15,
+    "MALUKU": 11,
+    "MALUKU UTARA": 9,
+    "METROJAYA": 13,
+    "NUSA TENGGARA BARAT": 10,
+    "NUSA TENGGARA TIMUR": 22,
+    "PAPUA": 22,
+    "PAPUA BARAT": 7,
+    "PAPUA TENGAH": 7,
+    "PAPUA BARAT DAYA": 6,
+    "SULAWESI BARAT": 6,
+    "SULAWESI TENGAH": 13,
+    "SULAWESI TENGGARA": 15,
+    "SULAWESI UTARA": 14,
+    "SULAWESI SELATAN": 25,
+    "SUMATRA BARAT": 18,
+    "SUMATRA SELATAN": 14,
+    "SUMATRA UTARA": 25
+  },
+  "total": 492
+}
