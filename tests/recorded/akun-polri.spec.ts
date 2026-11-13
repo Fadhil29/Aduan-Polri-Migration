@@ -5,7 +5,7 @@ test('test', async ({ page }) => {
   await page.getByRole('textbox', { name: 'Enter your email' }).click();
   await page.getByRole('textbox', { name: 'Enter your email' }).fill('siber_metrojaya@cyber.polri.go.id');
   await page.getByRole('textbox', { name: 'Enter your password' }).click();
-  await page.getByRole('textbox', { name: 'Enter your password' }).fill('P0L!NaT@');
+  await page.getByRole('textbox', { name: 'Enter your password' }).fill(process.env.POLDA_PASSWORD!);
   await page.getByRole('button', { name: 'Login' }).click();
   await page.getByRole('button', { name: 'POLRI ' }).click();
   await page.locator('.submenus').first().click();

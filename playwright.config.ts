@@ -9,6 +9,7 @@ export default defineConfig({
   use: {
     baseURL: process.env.BASE_URL,
     trace: 'retain-on-failure',
+    channel: 'chrome',
     screenshot: 'only-on-failure',
   },
 });
