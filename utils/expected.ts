@@ -1,15 +1,16 @@
 import fs from 'fs';
 import path from 'path';
 
-export type PolresRow = { polda: string; polres: string; email: string };
-export type Expected = {
-  polda: string[];
+export type PolresRow = { polres: string; email: string };
+export type PoldaExpected = {
+  key: string;
+  polda: string;
+  loginEmail: string | null;
+  summaryCount: number | null;
   polres: PolresRow[];
-  summary: Record<string, number>;
-  total: number;
 };
 
-export const expected: Expected = JSON.parse(
+export const poldaList: PoldaExpected[] = JSON.parse(
   fs.readFileSync(path.join(__dirname, '../data/expected.json'), 'utf-8'),
 );
 

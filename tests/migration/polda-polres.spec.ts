@@ -1,29 +1,28 @@
 import { test, expect } from '@playwright/test';
-import { expected, norm } from '../../utils/expected';
+import { poldaList, norm } from '../../utils/expected';
+import { loginAs } from '../../utils/login';
+import { MasterPolresPage } from '../../pages/MasterPolresPage';
 
-// TODO: isi setelah hasil codegen menu tersedia.
-// Helper ini dipanggil dari hasil record: navigasi ke menu + set page size ke max,
-// lalu baca semua baris datatable (handle pagination).
-async function readTable(page): Promise<string[][]> {
-  throw new Error('belum diisi, tempel hasil codegen');
+for (const p of poldaList) {
+  test.describe(p.polda, () => {
+    test.skip(!p.loginEmail, 'Polda tidak punya akun di sheet "Akun Polda" Excel');
+
+    test('master data Polres sesuai Excel', async ({ page }) => {
+      await loginAs(page, p.loginEmail!);
+      const master = new MasterPolresPage(page);
+      await master.open();
+      const actual = await master.readAll();
+
+      const key = (r: { polres: string; email: string }) => `${norm(r.polres)}|${r.email.trim().toLowerCase()}`;
+      const actualSet = new Set(actual.map(key));
+      const expectedSet = new Set(p.polres.map(key));
+
+      const missing = p.polres.filter((r) => !actualSet.has(key(r)));
+      const extra = actual.filter((r) => !expectedSet.has(key(r)));
+
+      expect.soft(actual.length, 'jumlah baris vs Excel').toBe(p.polres.length);
+      expect.soft(missing, 'ada di Excel, tidak ada di datatable (belum masuk / email beda)').toEqual([]);
+      expect.soft(extra, 'ada di datatable, tidak ada di Excel (nyasar dari Polda lain?)').toEqual([]);
+    });
+  });
 }
-
-test.describe('Migrasi data Polda & Polres', () => {
-  test('jumlah Polda sesuai Excel', async ({ page }) => {
-    // const rows = await readTable(page);
-    // expect(new Set(rows.map(r => norm(r[0]))).size).toBe(expected.polda.length);
-  });
-
-  test('tiap Polres dari Excel ada di datatable & di Polda yang benar', async ({ page }) => {
-    // const rows = await readTable(page);
-    // const actual = new Set(rows.map(r => `${norm(r[0])}|${norm(r[1])}`));
-    // const missing = expected.polres.filter(r => !actual.has(`${norm(r.polda)}|${norm(r.polres)}`));
-    // expect(missing, 'Polres tidak ada / nyasar ke Polda lain').toEqual([]);
-  });
-
-  test('tidak ada data ekstra di datatable yang tidak ada di Excel', async ({ page }) => {});
-
-  test('jumlah Polres per Polda sesuai sheet Ringkasan', async ({ page }) => {});
-
-  test('email Polres sesuai Excel', async ({ page }) => {});
-});
